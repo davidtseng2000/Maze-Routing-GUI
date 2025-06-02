@@ -1,0 +1,10 @@
+route id: 9 => steps: 29
+Routing failed for net_id 4
+route id: 5 => steps: 219
+Routing failed for net_id 6
+Routing failed for net_id 8
+route id: 3 => steps: 137
+route id: 2 => steps: 127
+route id: 7 => steps: 92
+route id: 1 => steps: 41
+route id: 10 => steps: 52
