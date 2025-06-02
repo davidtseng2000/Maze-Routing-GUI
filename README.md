@@ -110,7 +110,6 @@ Description:
 - `maze_screenshot.png`: Screenshot of the maze
 - `routing_results.txt`: Contains detailed information about all paths
   - Successful paths: Shows path ID and number of steps
-  - Failed paths: Marked as failed
 
 ### Output Examples
 
