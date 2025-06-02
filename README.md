@@ -143,10 +143,15 @@ Print the solution to the maze routing problem:
 ## 🎨 Color Guide
 
 ⚪️ White: Empty space
+
 ⚫️ Black: Obstacle
+
 🔵 Blue: Start point
+
 🔴 Red: End point
+
 🟢 Green: Path
+
 🟣 Purple: Currently hovered path
 
 ## ⚠️ Notes

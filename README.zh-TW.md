@@ -146,10 +146,15 @@ Print the solution to the maze routing problem:
 ## 🎨 顏色說明
 
 ⚪️ 白色: 空白區域
+
 ⚫️ 黑色: 障礙物
+
 🔵 藍色: 起點
+
 🔴 紅色: 終點
+
 🟢 綠色: 路徑
+
 🟣 紫色: 當前懸停的路徑
 
 
