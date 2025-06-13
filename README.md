@@ -1,6 +1,6 @@
 🌐 Available Languages: [English](README.md) | [繁體中文](README.zh-TW.md)
 
-# Maze Routing GUI
+# MazeRoutingILP-GUI
 
 A maze routing visualization application developed using the SFML graphics library. Includes three different algorithms: BFS, A*, and ILP.
 

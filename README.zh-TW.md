@@ -1,6 +1,6 @@
 🌐 語言選擇: [English](README.md) | [繁體中文](README.zh-TW.md)
 
-# Maze Routing GUI
+# MazeRoutingILP-GUI
 
 這是一個使用 SFML 圖形庫開發的解迷宮問題視覺化應用程式。包含 BFS、Astar、ILP 三種不同的演算法。
 
