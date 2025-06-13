@@ -3,7 +3,7 @@
 #include <fstream>
 
 // Define the global variable
-std::unordered_map<int, int> id_to_steps;
+std::map<int, int> id_to_steps;
 
 // Global variables for hover state
 static int hovered_path_id = -1;

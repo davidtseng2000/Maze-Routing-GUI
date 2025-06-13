@@ -31,6 +31,8 @@ Grid read_maze(const string& filename) {
                 cell.is_obstacle = true;
             }
             else if (token == ".") {
+                cell.path_id = -1;
+                cell.is_space = true;               
             }
             else if (token.size() >= 2 && (token[0] == 'S' || token[0] == 'E')) {
                 char type = token[0]; // S or E
